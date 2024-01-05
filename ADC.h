@@ -1,0 +1,7 @@
+// CECS347 Project 3: Space Invaders 
+// Student Names: Kevin Phan, James Quon, Rei Angelo Amurao
+// Group: 3
+// Date: December 6, 2023
+// File description: Header file for ADC.c
+
+void ADC_Init(void);
